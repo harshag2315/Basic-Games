@@ -1,6 +1,17 @@
+ branch2
 branch2
 #This line added in branch2.
+
+ branch3
+This line added in main.
+
+ main
 #This line added in branch1.
+#This line added in branch3.
+
+
+#This line added in branch1.
+ main
 
 
 
